@@ -1,8 +1,6 @@
 ## Dependencies
 
-1. getpass
-2. requests
-3. json
+1. requests
 
 ## To Do
 
